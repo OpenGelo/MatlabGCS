@@ -1,0 +1,12 @@
+[12:08:17] Terminal Initialized
+[12:08:20] Survelliance Initialized
+[12:08:20] Compass Initialized
+[12:08:22] Acceleration Graph Initialized
+[12:08:23] Model 3D Initialized
+[12:08:42] Trying to open COM1..
+[12:08:42] Success!
+[12:08:49] Trying to close COM1..
+[12:08:49] Success!
+[12:08:51] Trying to close program... 
+[12:08:51] Trying to close realterm... 
+[12:08:51] Success !

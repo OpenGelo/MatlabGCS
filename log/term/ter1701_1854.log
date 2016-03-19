@@ -1,0 +1,15 @@
+[18:45:40] Terminal Initialized
+[18:45:41] Survelliance Initialized
+[18:45:42] Compass Initialized
+[18:45:42] Acceleration Graph Initialized
+[18:45:43] Model 3D Initialized
+[18:53:31] Trying to open COM10..
+[18:53:31] ERROR : COM port doesn't exist
+[18:53:32] Trying to open COM10..
+[18:53:32] ERROR : COM port doesn't exist
+[18:53:36] ERROR : Not connected to any COM port
+[18:53:40] Trying to open COM10..
+[18:53:40] ERROR : COM port doesn't exist
+[18:54:50] Trying to close program... 
+[18:54:50] Trying to close realterm... 
+[18:54:50] Success !
